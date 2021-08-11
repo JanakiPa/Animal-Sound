@@ -1,0 +1,29 @@
+body{
+    font-family: 'Palette Mosaic', cursive;
+    background-color: #003166;
+    color:#bb99ff;
+}
+.header_div{
+background-color: #bb99ff;
+color: #003166;
+}
+.header_div p{
+    font-family: 'Gowun Dodum', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div button{
+    background-color: #5cd6d6;
+    color:#003166;
+    border-color: #bb99ff;
+    border-width: 2px;
+}
+.copyright{
+    background-color:#bb99ff;
+    color:#003166;
+   text-shadow: 5px 5px 5px #564376;
+   bottom: 0;
+   line-height: 4px;
+   position: fixed;
+   width: 100%;
+}
